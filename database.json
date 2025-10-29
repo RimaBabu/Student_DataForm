@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Anushree",
+      "id": "1",
+      "email": "anu35@gmail.com",
+      "location": "Banglore",
+      "mobileNo": "1234567890"
+    },
+    {
+      "name": "Sara",
+      "id": "2",
+      "email": "sara31@gmail.com",
+      "location": "Banglore",
+      "mobileNo": "9884433324"
+    },
+    {
+      "id": "3",
+      "name": "RIMA ",
+      "email": "rimababu5002@gmail.com",
+      "location": "Chennai ",
+      "mobileNo": "9962247020"
+    },
+    {
+      "id": "4",
+      "name": "Melvin",
+      "email": "melvinnadeen64@gmail.com",
+      "location": "Chennai",
+      "mobileNo": "9342721329"
+    },
+    {
+      "id": "12",
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "location": "coimbatore",
+      "mobileNo": "9342721325"
+    },
+    {
+      "id": "5",
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "location": "Chennai ",
+      "mobileNo": "1234567891"
+    }
+  ]
+}
